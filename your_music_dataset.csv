@@ -1,0 +1,1001 @@
+user_id,age,gender,genre_preference,music_name,minutes_listened,liked
+1,29,Male,Country,Shape of You,15,1
+2,30,Female,Country,Dance Monkey,118,1
+3,37,Female,Rock,Closer,14,1
+4,37,Female,Classical,Faded,36,1
+5,42,Male,EDM,Blinding Lights,29,1
+6,18,Male,EDM,Shape of You,107,0
+7,36,Male,Classical,Shape of You,177,0
+8,27,Female,EDM,Bad Guy,164,0
+9,43,Female,Pop,Shape of You,167,1
+10,21,Female,Classical,Thunder,18,1
+11,33,Female,EDM,Blinding Lights,67,1
+12,29,Male,Rock,Let Her Go,137,1
+13,40,Female,EDM,Cheap Thrills,135,1
+14,24,Female,Hip-Hop,Love Story,154,1
+15,36,Male,Hip-Hop,Despacito,161,1
+16,32,Female,Classical,Memories,166,1
+17,30,Female,EDM,Bohemian Rhapsody,84,0
+18,19,Male,Hip-Hop,Dance Monkey,141,1
+19,25,Male,Classical,Havana,148,0
+20,33,Male,Hip-Hop,Someone You Loved,45,0
+21,45,Female,Classical,Perfect,137,1
+22,30,Female,Country,Perfect,116,0
+23,42,Female,Country,Bohemian Rhapsody,17,0
+24,25,Female,Hip-Hop,Sugar,69,1
+25,36,Male,Country,Love Story,68,1
+26,35,Female,EDM,Cheap Thrills,111,1
+27,27,Male,Pop,Believer,119,0
+28,19,Male,Hip-Hop,Blinding Lights,19,1
+29,26,Female,Classical,Let Her Go,11,1
+30,32,Male,Pop,Girls Like You,177,1
+31,42,Female,Country,Closer,27,1
+32,31,Male,Rock,Blinding Lights,140,1
+33,20,Male,Classical,Perfect,166,1
+34,21,Female,Classical,Havana,57,1
+35,38,Female,Pop,Memories,63,1
+36,42,Male,Rock,Despacito,139,0
+37,32,Male,Hip-Hop,Bad Guy,58,0
+38,27,Male,Classical,Blinding Lights,141,1
+39,34,Female,Rock,Havana,106,1
+40,29,Female,EDM,Closer,50,0
+41,22,Female,Pop,Shape of You,110,1
+42,29,Female,Classical,Someone You Loved,137,0
+43,26,Female,Rock,Closer,23,1
+44,31,Female,Pop,Memories,129,1
+45,45,Male,Jazz,Girls Like You,60,1
+46,33,Male,Jazz,Despacito,114,0
+47,41,Female,Rock,Closer,14,0
+48,19,Male,Classical,Dance Monkey,26,0
+49,45,Female,Rock,Faded,168,0
+50,38,Male,Classical,Perfect,126,1
+51,34,Male,Pop,Someone You Loved,28,1
+52,19,Female,Hip-Hop,Sugar,80,0
+53,23,Female,Pop,Despacito,170,1
+54,23,Male,Rock,Faded,79,1
+55,43,Female,Pop,Perfect,26,1
+56,23,Female,Rock,Memories,56,1
+57,31,Male,Rock,Thunder,178,1
+58,36,Male,Jazz,Blinding Lights,83,0
+59,39,Female,EDM,Believer,80,1
+60,21,Male,Classical,Cheap Thrills,36,0
+61,44,Male,Classical,Cheap Thrills,96,1
+62,20,Female,Classical,Memories,42,1
+63,31,Male,Classical,Thunder,114,1
+64,37,Male,Classical,Love Story,101,0
+65,24,Male,Classical,Cheap Thrills,85,1
+66,23,Male,Pop,Bohemian Rhapsody,77,1
+67,32,Male,Hip-Hop,Perfect,180,1
+68,41,Female,Hip-Hop,Let Her Go,91,0
+69,43,Female,Pop,Cheap Thrills,154,1
+70,38,Male,Country,Faded,71,1
+71,33,Male,Classical,Love Story,67,0
+72,39,Male,Pop,Memories,41,0
+73,27,Male,Country,Dance Monkey,28,0
+74,42,Female,Country,Bad Guy,131,1
+75,28,Female,Classical,Believer,84,1
+76,35,Female,Jazz,Bad Guy,156,0
+77,21,Female,Country,Bad Guy,160,1
+78,43,Female,Pop,Thunder,70,1
+79,20,Female,Pop,Love Story,78,0
+80,27,Male,Pop,Believer,132,1
+81,37,Male,Country,Thunder,24,1
+82,22,Male,EDM,Closer,156,1
+83,37,Male,Classical,Bohemian Rhapsody,29,0
+84,41,Male,Jazz,Memories,120,0
+85,42,Male,Jazz,Believer,83,1
+86,18,Female,Hip-Hop,Believer,29,0
+87,33,Female,Country,Blinding Lights,160,0
+88,39,Male,Jazz,Cheap Thrills,115,0
+89,35,Female,EDM,Dance Monkey,142,0
+90,24,Female,Jazz,Thunder,127,1
+91,41,Female,Rock,Dance Monkey,67,0
+92,21,Female,Pop,Blinding Lights,52,1
+93,19,Male,Jazz,Love Story,132,0
+94,28,Male,Pop,Love Story,96,0
+95,35,Male,Rock,Cheap Thrills,129,1
+96,19,Male,Hip-Hop,Faded,90,0
+97,34,Male,Country,Shape of You,146,1
+98,34,Female,Pop,Bohemian Rhapsody,152,1
+99,41,Male,Rock,Cheap Thrills,149,1
+100,30,Female,Pop,Shape of You,131,1
+101,45,Female,Pop,Senorita,142,0
+102,24,Male,Country,Havana,13,0
+103,21,Male,Hip-Hop,Perfect,170,1
+104,21,Female,Country,Bad Guy,95,1
+105,40,Female,Country,Let Her Go,116,1
+106,19,Female,Hip-Hop,Believer,61,1
+107,23,Female,Jazz,Havana,155,1
+108,21,Female,EDM,Perfect,110,0
+109,19,Female,Pop,Shape of You,19,0
+110,34,Male,Pop,Bad Guy,159,1
+111,41,Male,Pop,Bohemian Rhapsody,36,1
+112,30,Male,EDM,Love Story,52,0
+113,25,Male,EDM,Havana,136,0
+114,36,Male,Country,Cheap Thrills,73,0
+115,25,Male,Pop,Havana,128,1
+116,26,Male,Hip-Hop,Faded,142,1
+117,45,Female,EDM,Senorita,89,1
+118,37,Male,Country,Closer,17,0
+119,21,Male,Country,Perfect,117,0
+120,23,Male,Pop,Closer,40,0
+121,45,Female,Country,Thunder,40,1
+122,29,Male,Pop,Senorita,36,0
+123,23,Male,Hip-Hop,Let Her Go,172,1
+124,25,Male,Hip-Hop,Someone You Loved,159,1
+125,40,Female,Pop,Girls Like You,66,1
+126,45,Male,Rock,Shape of You,39,1
+127,30,Male,Jazz,Girls Like You,155,1
+128,35,Female,Classical,Cheap Thrills,32,1
+129,34,Male,Rock,Memories,69,0
+130,25,Male,Pop,Sugar,91,0
+131,18,Female,Rock,Cheap Thrills,86,1
+132,30,Female,EDM,Sugar,147,0
+133,23,Male,EDM,Sugar,162,1
+134,21,Female,Rock,Closer,113,1
+135,40,Female,EDM,Closer,120,1
+136,42,Female,Jazz,Faded,94,1
+137,35,Male,EDM,Cheap Thrills,85,1
+138,43,Male,EDM,Someone You Loved,139,0
+139,18,Male,Jazz,Thunder,147,0
+140,28,Male,Rock,Thunder,21,1
+141,24,Male,Hip-Hop,Shape of You,166,1
+142,32,Male,Jazz,Someone You Loved,92,1
+143,39,Female,Pop,Sugar,140,0
+144,20,Male,Classical,Love Story,128,1
+145,22,Male,Rock,Sugar,47,1
+146,20,Female,Pop,Memories,142,1
+147,34,Male,EDM,Let Her Go,84,0
+148,21,Female,Classical,Memories,180,1
+149,42,Female,Rock,Shape of You,81,1
+150,42,Male,Rock,Bad Guy,81,0
+151,39,Female,Jazz,Bad Guy,72,0
+152,28,Female,Rock,Havana,99,1
+153,25,Male,Classical,Love Story,122,0
+154,44,Male,Hip-Hop,Girls Like You,71,0
+155,34,Male,EDM,Sugar,92,0
+156,32,Male,Jazz,Someone You Loved,29,0
+157,44,Male,Pop,Someone You Loved,172,0
+158,35,Male,Hip-Hop,Let Her Go,69,1
+159,44,Female,Country,Despacito,121,1
+160,42,Female,Jazz,Closer,72,0
+161,39,Male,Jazz,Blinding Lights,91,1
+162,33,Female,Hip-Hop,Bohemian Rhapsody,13,1
+163,26,Female,Rock,Sugar,65,1
+164,18,Male,Jazz,Faded,61,0
+165,24,Female,Country,Shape of You,100,1
+166,39,Male,Classical,Senorita,149,1
+167,22,Male,Classical,Love Story,48,0
+168,26,Female,Jazz,Despacito,180,0
+169,31,Female,Classical,Havana,103,1
+170,45,Male,Pop,Love Story,24,1
+171,33,Female,Hip-Hop,Bad Guy,53,1
+172,23,Female,Hip-Hop,Blinding Lights,69,1
+173,28,Male,Classical,Dance Monkey,99,0
+174,32,Male,EDM,Senorita,148,0
+175,25,Male,Rock,Dance Monkey,98,0
+176,23,Female,Rock,Despacito,23,1
+177,22,Male,EDM,Bad Guy,136,1
+178,20,Male,Classical,Believer,176,0
+179,39,Female,EDM,Bohemian Rhapsody,175,0
+180,34,Male,Hip-Hop,Believer,132,1
+181,26,Female,EDM,Let Her Go,155,1
+182,26,Male,Country,Girls Like You,53,0
+183,45,Female,Rock,Let Her Go,56,0
+184,37,Female,Rock,Cheap Thrills,147,1
+185,21,Male,Jazz,Love Story,81,0
+186,25,Female,Hip-Hop,Memories,72,0
+187,18,Male,Jazz,Memories,143,0
+188,27,Male,Pop,Thunder,68,0
+189,42,Male,Pop,Bad Guy,64,0
+190,44,Male,EDM,Shape of You,127,0
+191,38,Female,EDM,Closer,155,0
+192,30,Male,EDM,Thunder,133,0
+193,24,Female,Jazz,Girls Like You,46,0
+194,28,Male,Country,Blinding Lights,179,0
+195,34,Male,EDM,Girls Like You,108,1
+196,24,Female,Jazz,Blinding Lights,109,0
+197,25,Male,Hip-Hop,Closer,18,1
+198,27,Male,Rock,Memories,67,1
+199,30,Male,Rock,Blinding Lights,14,0
+200,38,Male,Jazz,Believer,133,0
+201,36,Female,Jazz,Senorita,95,0
+202,40,Male,Country,Love Story,119,1
+203,33,Female,Rock,Believer,52,1
+204,18,Male,EDM,Girls Like You,61,1
+205,41,Male,Pop,Thunder,48,1
+206,41,Female,Classical,Senorita,112,1
+207,40,Female,Hip-Hop,Bad Guy,161,0
+208,33,Female,Jazz,Havana,81,0
+209,23,Male,Hip-Hop,Let Her Go,148,1
+210,23,Male,Country,Let Her Go,134,0
+211,31,Male,EDM,Dance Monkey,90,0
+212,31,Female,Pop,Faded,25,0
+213,43,Female,Classical,Girls Like You,172,1
+214,41,Male,Pop,Senorita,136,1
+215,33,Male,Jazz,Someone You Loved,177,0
+216,35,Male,Country,Cheap Thrills,168,1
+217,42,Female,Rock,Shape of You,124,0
+218,26,Female,EDM,Despacito,87,0
+219,28,Male,Pop,Memories,170,0
+220,40,Male,EDM,Bad Guy,106,0
+221,26,Male,EDM,Believer,21,0
+222,32,Female,Rock,Someone You Loved,114,0
+223,43,Female,Hip-Hop,Dance Monkey,56,1
+224,23,Male,Rock,Faded,67,1
+225,27,Female,Pop,Believer,41,1
+226,41,Male,Jazz,Someone You Loved,136,1
+227,24,Male,Classical,Despacito,24,1
+228,20,Male,Classical,Blinding Lights,38,0
+229,39,Female,Country,Bohemian Rhapsody,134,1
+230,25,Female,Rock,Memories,54,0
+231,26,Female,Rock,Perfect,14,0
+232,33,Female,Hip-Hop,Havana,177,1
+233,22,Male,Jazz,Blinding Lights,173,1
+234,31,Male,Hip-Hop,Someone You Loved,110,1
+235,34,Female,Country,Havana,47,0
+236,41,Female,Hip-Hop,Blinding Lights,117,1
+237,42,Female,Pop,Girls Like You,153,1
+238,19,Female,EDM,Someone You Loved,136,1
+239,32,Female,Classical,Bohemian Rhapsody,123,1
+240,24,Female,EDM,Dance Monkey,145,1
+241,43,Female,Classical,Cheap Thrills,123,1
+242,21,Female,Country,Shape of You,159,1
+243,31,Female,EDM,Dance Monkey,23,0
+244,31,Male,Jazz,Cheap Thrills,56,1
+245,35,Male,Country,Faded,13,0
+246,18,Male,Country,Blinding Lights,122,0
+247,31,Female,Rock,Cheap Thrills,76,1
+248,45,Female,Rock,Bohemian Rhapsody,153,0
+249,21,Male,Hip-Hop,Blinding Lights,179,1
+250,20,Female,Pop,Dance Monkey,99,0
+251,21,Male,Classical,Havana,170,1
+252,35,Male,Country,Believer,143,1
+253,28,Male,Classical,Let Her Go,169,1
+254,18,Female,Classical,Closer,56,0
+255,42,Female,Jazz,Perfect,90,0
+256,41,Female,Country,Shape of You,147,1
+257,35,Female,EDM,Despacito,78,1
+258,24,Female,Pop,Bad Guy,82,1
+259,45,Male,Hip-Hop,Thunder,88,0
+260,39,Female,Pop,Shape of You,131,1
+261,21,Male,Country,Love Story,104,0
+262,22,Female,Rock,Bohemian Rhapsody,82,1
+263,45,Female,Hip-Hop,Believer,53,1
+264,34,Male,Pop,Closer,41,0
+265,29,Male,EDM,Thunder,94,0
+266,28,Male,Country,Dance Monkey,61,0
+267,35,Female,Country,Faded,47,1
+268,33,Male,Pop,Closer,60,0
+269,44,Female,Country,Dance Monkey,171,1
+270,41,Female,EDM,Thunder,30,1
+271,36,Male,EDM,Girls Like You,27,0
+272,25,Male,Pop,Memories,35,1
+273,31,Female,Pop,Havana,83,0
+274,21,Male,Classical,Believer,167,0
+275,26,Female,Hip-Hop,Closer,159,0
+276,19,Female,Rock,Havana,71,0
+277,44,Male,Hip-Hop,Dance Monkey,29,1
+278,43,Male,Classical,Someone You Loved,68,0
+279,45,Female,EDM,Bad Guy,106,0
+280,26,Female,Pop,Sugar,137,0
+281,31,Female,Pop,Blinding Lights,34,0
+282,32,Male,Rock,Thunder,60,1
+283,22,Female,EDM,Shape of You,21,1
+284,43,Male,Rock,Let Her Go,71,1
+285,23,Female,Pop,Havana,65,1
+286,26,Female,Classical,Shape of You,13,0
+287,28,Male,Classical,Let Her Go,137,1
+288,34,Female,Classical,Believer,151,0
+289,35,Male,Pop,Sugar,168,1
+290,28,Male,Jazz,Memories,151,1
+291,30,Male,EDM,Havana,153,0
+292,44,Male,Jazz,Shape of You,141,0
+293,34,Male,Hip-Hop,Despacito,34,1
+294,27,Female,Country,Thunder,68,0
+295,43,Female,EDM,Bohemian Rhapsody,26,0
+296,21,Male,EDM,Dance Monkey,83,1
+297,39,Female,Country,Faded,149,0
+298,44,Female,Hip-Hop,Bad Guy,144,0
+299,41,Female,Pop,Someone You Loved,110,0
+300,27,Female,Classical,Cheap Thrills,177,0
+301,33,Female,Country,Believer,91,1
+302,40,Male,Pop,Cheap Thrills,139,1
+303,20,Female,EDM,Cheap Thrills,54,0
+304,44,Female,Jazz,Bad Guy,52,0
+305,23,Female,Hip-Hop,Faded,60,0
+306,35,Female,Hip-Hop,Someone You Loved,159,1
+307,35,Male,Classical,Believer,179,0
+308,23,Female,Rock,Havana,37,1
+309,28,Female,EDM,Sugar,132,1
+310,22,Female,Rock,Cheap Thrills,87,0
+311,40,Female,Hip-Hop,Cheap Thrills,131,1
+312,34,Female,Jazz,Despacito,171,1
+313,22,Female,Classical,Let Her Go,90,1
+314,19,Female,Jazz,Believer,109,1
+315,24,Female,Hip-Hop,Sugar,88,1
+316,18,Female,EDM,Despacito,114,0
+317,42,Male,Pop,Love Story,172,1
+318,33,Male,Jazz,Cheap Thrills,166,0
+319,39,Male,Jazz,Sugar,62,1
+320,18,Female,Country,Someone You Loved,60,0
+321,19,Male,Jazz,Someone You Loved,89,1
+322,45,Female,EDM,Despacito,93,1
+323,36,Male,Jazz,Perfect,40,1
+324,36,Female,Rock,Bad Guy,96,1
+325,32,Male,Pop,Havana,100,0
+326,23,Female,Country,Sugar,125,1
+327,30,Male,Jazz,Despacito,109,1
+328,18,Male,Classical,Closer,28,1
+329,18,Female,Hip-Hop,Let Her Go,26,1
+330,45,Female,Jazz,Shape of You,91,1
+331,43,Male,EDM,Havana,135,1
+332,36,Male,Classical,Let Her Go,136,1
+333,44,Female,Pop,Havana,117,0
+334,32,Male,EDM,Sugar,22,0
+335,24,Male,Rock,Someone You Loved,77,1
+336,45,Female,Hip-Hop,Cheap Thrills,40,0
+337,21,Female,Hip-Hop,Love Story,104,0
+338,30,Female,EDM,Havana,138,1
+339,43,Male,Jazz,Cheap Thrills,87,0
+340,30,Male,EDM,Memories,127,1
+341,23,Female,EDM,Let Her Go,17,0
+342,41,Female,EDM,Someone You Loved,108,1
+343,21,Male,EDM,Faded,51,1
+344,43,Female,Jazz,Dance Monkey,38,1
+345,40,Female,Jazz,Shape of You,168,1
+346,39,Male,Pop,Bad Guy,99,1
+347,27,Male,EDM,Perfect,115,1
+348,24,Female,EDM,Let Her Go,106,1
+349,24,Female,Jazz,Faded,46,1
+350,21,Female,Classical,Cheap Thrills,18,1
+351,26,Female,Pop,Faded,167,0
+352,38,Female,Rock,Memories,136,1
+353,32,Female,Classical,Despacito,172,0
+354,38,Male,Classical,Dance Monkey,125,0
+355,30,Female,Classical,Someone You Loved,149,0
+356,23,Male,EDM,Senorita,12,0
+357,45,Female,Hip-Hop,Love Story,155,1
+358,24,Male,Rock,Senorita,18,1
+359,26,Female,Rock,Closer,132,1
+360,31,Female,Classical,Senorita,44,0
+361,27,Female,Country,Cheap Thrills,60,0
+362,20,Male,Hip-Hop,Senorita,44,1
+363,30,Male,Pop,Despacito,25,1
+364,32,Female,Rock,Shape of You,151,1
+365,36,Female,EDM,Faded,138,1
+366,35,Male,Classical,Love Story,21,1
+367,43,Male,Pop,Let Her Go,11,1
+368,29,Female,Classical,Sugar,86,1
+369,41,Female,Jazz,Perfect,137,0
+370,29,Male,Country,Dance Monkey,156,1
+371,25,Male,Rock,Sugar,110,1
+372,43,Female,Jazz,Believer,109,1
+373,38,Female,EDM,Closer,153,0
+374,41,Female,EDM,Closer,94,0
+375,27,Female,Rock,Shape of You,118,1
+376,42,Female,Pop,Dance Monkey,91,1
+377,44,Male,Classical,Girls Like You,131,1
+378,40,Female,Rock,Sugar,16,1
+379,20,Male,Rock,Love Story,30,1
+380,38,Female,Hip-Hop,Shape of You,20,1
+381,30,Male,Pop,Senorita,177,1
+382,25,Female,Jazz,Despacito,165,0
+383,35,Female,Country,Girls Like You,135,0
+384,31,Female,EDM,Despacito,21,1
+385,41,Male,Hip-Hop,Perfect,70,0
+386,45,Female,Hip-Hop,Faded,145,0
+387,29,Male,Rock,Believer,134,0
+388,26,Female,Country,Despacito,89,1
+389,26,Female,Classical,Believer,80,1
+390,28,Male,Rock,Love Story,38,1
+391,34,Female,Classical,Someone You Loved,144,1
+392,33,Male,Hip-Hop,Thunder,96,0
+393,31,Female,Classical,Perfect,170,0
+394,18,Male,Rock,Someone You Loved,58,0
+395,26,Male,EDM,Closer,42,1
+396,43,Female,Rock,Closer,60,1
+397,32,Female,Country,Shape of You,139,0
+398,23,Female,Rock,Love Story,72,0
+399,28,Male,Country,Despacito,22,0
+400,45,Female,Country,Senorita,14,1
+401,27,Male,EDM,Dance Monkey,11,0
+402,26,Female,Hip-Hop,Let Her Go,82,0
+403,22,Female,Pop,Bohemian Rhapsody,87,0
+404,30,Male,Jazz,Sugar,102,1
+405,30,Male,Rock,Cheap Thrills,128,0
+406,22,Male,Country,Shape of You,169,1
+407,21,Female,Country,Senorita,139,0
+408,34,Female,EDM,Girls Like You,87,0
+409,26,Female,Pop,Believer,66,1
+410,35,Female,Country,Cheap Thrills,55,1
+411,19,Female,Hip-Hop,Faded,170,1
+412,44,Male,Pop,Despacito,20,1
+413,39,Female,Classical,Despacito,107,1
+414,22,Male,Jazz,Love Story,84,0
+415,38,Female,Classical,Believer,23,0
+416,45,Female,Country,Perfect,70,1
+417,37,Female,Country,Sugar,72,1
+418,30,Female,Jazz,Someone You Loved,93,0
+419,33,Male,Hip-Hop,Thunder,102,0
+420,43,Male,EDM,Sugar,159,1
+421,28,Female,Jazz,Senorita,98,1
+422,29,Male,Hip-Hop,Havana,71,1
+423,19,Male,Hip-Hop,Faded,104,1
+424,20,Female,Country,Bad Guy,31,1
+425,44,Female,Country,Faded,40,1
+426,45,Male,Pop,Perfect,147,0
+427,22,Male,EDM,Believer,135,0
+428,43,Male,Country,Faded,18,1
+429,28,Male,EDM,Cheap Thrills,102,0
+430,35,Female,Rock,Closer,138,1
+431,40,Male,Classical,Sugar,55,1
+432,33,Male,Country,Let Her Go,79,0
+433,42,Male,Classical,Perfect,90,1
+434,29,Male,Pop,Bad Guy,52,0
+435,18,Female,Hip-Hop,Bad Guy,19,1
+436,40,Male,Country,Senorita,30,1
+437,32,Male,Jazz,Blinding Lights,174,0
+438,24,Male,Country,Memories,37,1
+439,42,Female,Hip-Hop,Love Story,118,0
+440,32,Female,Jazz,Senorita,54,1
+441,27,Male,Pop,Dance Monkey,123,1
+442,20,Male,Classical,Dance Monkey,23,1
+443,25,Female,Pop,Memories,71,1
+444,34,Male,Jazz,Despacito,152,1
+445,32,Female,Classical,Someone You Loved,49,1
+446,38,Female,Classical,Bohemian Rhapsody,112,0
+447,43,Male,Hip-Hop,Blinding Lights,114,0
+448,44,Male,Jazz,Closer,42,0
+449,45,Female,Pop,Dance Monkey,131,1
+450,25,Male,Classical,Thunder,89,1
+451,37,Male,Jazz,Dance Monkey,174,1
+452,35,Female,Hip-Hop,Faded,152,1
+453,40,Female,Classical,Thunder,141,1
+454,42,Female,EDM,Believer,69,1
+455,28,Male,Rock,Thunder,156,0
+456,22,Female,Rock,Memories,115,1
+457,43,Male,Rock,Love Story,67,1
+458,26,Female,Hip-Hop,Faded,119,0
+459,24,Male,Pop,Havana,34,1
+460,23,Male,Hip-Hop,Havana,129,0
+461,27,Female,Hip-Hop,Havana,151,0
+462,44,Female,Classical,Girls Like You,91,1
+463,42,Male,EDM,Bad Guy,25,1
+464,32,Male,Rock,Girls Like You,72,1
+465,19,Male,EDM,Memories,27,1
+466,32,Male,EDM,Bohemian Rhapsody,133,1
+467,37,Female,EDM,Perfect,157,1
+468,41,Female,Pop,Bad Guy,23,1
+469,28,Female,Rock,Memories,98,1
+470,41,Male,Classical,Havana,18,1
+471,20,Female,Classical,Sugar,56,0
+472,20,Female,Rock,Bad Guy,98,0
+473,33,Male,Country,Someone You Loved,67,1
+474,43,Male,Jazz,Faded,31,0
+475,19,Male,Hip-Hop,Bad Guy,146,1
+476,37,Female,Jazz,Bohemian Rhapsody,91,1
+477,20,Male,Classical,Love Story,136,0
+478,38,Female,Hip-Hop,Thunder,92,1
+479,31,Female,Pop,Dance Monkey,28,1
+480,28,Female,Jazz,Believer,87,1
+481,30,Female,Classical,Blinding Lights,142,0
+482,33,Female,Hip-Hop,Bad Guy,73,1
+483,43,Male,Country,Let Her Go,143,1
+484,39,Male,Country,Let Her Go,122,0
+485,29,Male,Rock,Memories,133,1
+486,27,Female,EDM,Despacito,55,1
+487,44,Female,Classical,Believer,149,1
+488,19,Female,Classical,Blinding Lights,77,1
+489,24,Male,Hip-Hop,Despacito,21,1
+490,28,Female,Hip-Hop,Cheap Thrills,131,0
+491,45,Female,Hip-Hop,Bohemian Rhapsody,94,1
+492,30,Female,Classical,Cheap Thrills,115,1
+493,42,Male,Pop,Love Story,58,1
+494,19,Female,Jazz,Dance Monkey,73,1
+495,26,Male,Hip-Hop,Bad Guy,151,0
+496,28,Male,Hip-Hop,Senorita,105,1
+497,22,Female,EDM,Believer,55,1
+498,19,Male,Country,Perfect,53,1
+499,39,Female,Pop,Believer,131,0
+500,32,Male,EDM,Closer,114,1
+501,26,Male,Hip-Hop,Memories,158,1
+502,41,Female,Pop,Perfect,99,1
+503,19,Male,Jazz,Perfect,83,0
+504,35,Female,Hip-Hop,Believer,27,0
+505,42,Male,Jazz,Cheap Thrills,169,1
+506,34,Male,Pop,Memories,92,0
+507,32,Male,Hip-Hop,Girls Like You,157,0
+508,39,Female,Hip-Hop,Senorita,36,1
+509,24,Female,Rock,Perfect,125,1
+510,25,Male,Country,Someone You Loved,133,1
+511,40,Female,Rock,Love Story,174,0
+512,36,Male,Country,Closer,51,0
+513,21,Male,Jazz,Sugar,76,1
+514,25,Male,Jazz,Girls Like You,122,1
+515,24,Female,Pop,Bad Guy,122,0
+516,36,Male,Pop,Memories,139,0
+517,27,Female,EDM,Someone You Loved,44,0
+518,29,Female,Hip-Hop,Closer,40,0
+519,34,Female,Rock,Shape of You,107,0
+520,26,Male,Classical,Someone You Loved,93,1
+521,26,Male,Hip-Hop,Thunder,124,0
+522,43,Male,EDM,Bohemian Rhapsody,153,1
+523,27,Male,Rock,Bad Guy,78,0
+524,22,Male,Hip-Hop,Faded,84,0
+525,29,Male,Pop,Believer,48,1
+526,45,Female,EDM,Havana,29,0
+527,27,Female,EDM,Blinding Lights,113,0
+528,30,Male,Country,Despacito,41,0
+529,27,Male,Jazz,Perfect,87,1
+530,27,Male,Classical,Girls Like You,103,1
+531,18,Male,Country,Perfect,143,0
+532,25,Female,Jazz,Sugar,21,1
+533,21,Female,Jazz,Love Story,21,0
+534,40,Male,Classical,Closer,158,1
+535,29,Female,Jazz,Senorita,97,0
+536,41,Male,Classical,Thunder,151,0
+537,18,Female,Country,Perfect,54,1
+538,34,Male,Classical,Thunder,134,0
+539,45,Female,Pop,Love Story,179,1
+540,35,Male,Country,Let Her Go,146,0
+541,29,Male,Rock,Sugar,149,1
+542,33,Female,Classical,Blinding Lights,24,1
+543,25,Female,Country,Closer,101,0
+544,19,Male,Pop,Someone You Loved,151,0
+545,44,Male,Rock,Love Story,137,0
+546,34,Male,Rock,Senorita,53,1
+547,30,Male,Country,Blinding Lights,19,0
+548,42,Female,Jazz,Let Her Go,94,0
+549,39,Male,EDM,Senorita,69,0
+550,24,Male,Classical,Havana,85,1
+551,28,Male,Country,Bohemian Rhapsody,124,0
+552,33,Female,Pop,Despacito,151,1
+553,23,Female,Pop,Havana,102,1
+554,42,Male,Hip-Hop,Bad Guy,93,1
+555,42,Male,Jazz,Despacito,112,1
+556,27,Female,EDM,Someone You Loved,48,1
+557,30,Female,Jazz,Bad Guy,116,0
+558,42,Female,Hip-Hop,Girls Like You,136,1
+559,34,Male,Classical,Believer,42,0
+560,28,Female,Rock,Bohemian Rhapsody,25,1
+561,44,Male,EDM,Bohemian Rhapsody,52,0
+562,38,Female,EDM,Bad Guy,34,0
+563,26,Female,Hip-Hop,Cheap Thrills,34,1
+564,34,Male,Jazz,Shape of You,126,1
+565,21,Female,Country,Girls Like You,133,1
+566,35,Male,EDM,Believer,168,1
+567,37,Female,Classical,Thunder,74,1
+568,28,Female,Country,Memories,144,1
+569,18,Male,Classical,Let Her Go,154,1
+570,38,Female,Hip-Hop,Love Story,137,1
+571,18,Female,EDM,Faded,127,1
+572,22,Male,Hip-Hop,Havana,22,0
+573,23,Male,Classical,Someone You Loved,146,1
+574,41,Male,Pop,Havana,55,1
+575,19,Male,Jazz,Perfect,61,1
+576,25,Female,Classical,Believer,45,1
+577,41,Male,Classical,Blinding Lights,42,1
+578,34,Male,Pop,Sugar,12,0
+579,45,Male,Rock,Shape of You,89,1
+580,38,Female,Rock,Closer,17,1
+581,25,Male,Hip-Hop,Cheap Thrills,129,0
+582,39,Male,Hip-Hop,Shape of You,106,0
+583,22,Female,EDM,Closer,109,1
+584,21,Female,Jazz,Sugar,169,0
+585,34,Female,Jazz,Let Her Go,14,1
+586,21,Female,Country,Cheap Thrills,172,0
+587,41,Female,Country,Someone You Loved,86,0
+588,20,Female,Country,Shape of You,41,1
+589,45,Male,Rock,Girls Like You,65,1
+590,30,Female,EDM,Someone You Loved,110,1
+591,20,Female,Country,Girls Like You,18,0
+592,26,Male,Classical,Cheap Thrills,25,1
+593,39,Male,Country,Memories,134,0
+594,21,Male,Pop,Girls Like You,70,0
+595,18,Female,EDM,Closer,171,0
+596,21,Female,Jazz,Closer,78,1
+597,32,Male,Rock,Perfect,155,1
+598,31,Male,EDM,Dance Monkey,47,1
+599,42,Female,Rock,Faded,167,0
+600,38,Male,Jazz,Dance Monkey,151,1
+601,43,Male,Country,Someone You Loved,97,0
+602,37,Male,Pop,Believer,172,1
+603,42,Female,Pop,Despacito,177,0
+604,31,Male,Hip-Hop,Girls Like You,104,1
+605,42,Female,Classical,Shape of You,148,1
+606,18,Female,EDM,Believer,114,1
+607,42,Female,Jazz,Blinding Lights,123,0
+608,39,Male,Classical,Girls Like You,175,0
+609,35,Female,Rock,Closer,23,0
+610,32,Female,Country,Closer,27,1
+611,45,Female,Rock,Perfect,173,0
+612,23,Male,Country,Bad Guy,75,1
+613,25,Male,Rock,Sugar,88,1
+614,22,Male,EDM,Sugar,178,0
+615,20,Male,Hip-Hop,Blinding Lights,60,1
+616,19,Female,Classical,Bad Guy,163,0
+617,24,Male,EDM,Love Story,154,1
+618,26,Male,Jazz,Closer,145,0
+619,22,Female,EDM,Bohemian Rhapsody,81,1
+620,36,Female,Rock,Shape of You,35,0
+621,31,Female,Country,Dance Monkey,113,1
+622,39,Female,Rock,Cheap Thrills,34,1
+623,25,Male,EDM,Memories,85,1
+624,33,Female,EDM,Bohemian Rhapsody,94,1
+625,33,Female,EDM,Sugar,95,1
+626,29,Female,Hip-Hop,Senorita,49,1
+627,37,Female,Pop,Memories,44,1
+628,25,Male,EDM,Dance Monkey,144,0
+629,23,Male,Hip-Hop,Let Her Go,32,1
+630,32,Male,Jazz,Someone You Loved,165,0
+631,37,Male,Classical,Girls Like You,48,0
+632,18,Male,Country,Shape of You,34,0
+633,40,Female,Country,Bad Guy,86,0
+634,18,Male,Rock,Dance Monkey,174,1
+635,30,Female,Rock,Cheap Thrills,150,1
+636,23,Male,Classical,Bad Guy,120,1
+637,25,Female,EDM,Closer,86,1
+638,35,Female,Rock,Havana,143,1
+639,21,Male,Classical,Believer,121,1
+640,39,Female,Jazz,Bohemian Rhapsody,130,1
+641,33,Male,EDM,Senorita,75,1
+642,19,Male,Country,Love Story,143,0
+643,26,Female,EDM,Havana,42,1
+644,21,Male,Country,Love Story,103,0
+645,27,Female,Pop,Let Her Go,35,1
+646,19,Male,Rock,Bohemian Rhapsody,62,1
+647,23,Female,Hip-Hop,Bad Guy,179,1
+648,32,Male,EDM,Dance Monkey,28,0
+649,39,Female,Rock,Closer,94,1
+650,23,Female,Hip-Hop,Love Story,39,1
+651,37,Female,Hip-Hop,Cheap Thrills,13,1
+652,36,Female,Rock,Believer,19,1
+653,18,Male,Country,Blinding Lights,76,0
+654,34,Male,EDM,Perfect,117,0
+655,19,Female,Classical,Despacito,13,0
+656,37,Female,Classical,Sugar,169,1
+657,34,Male,Pop,Bad Guy,69,0
+658,45,Female,Rock,Bohemian Rhapsody,104,0
+659,20,Female,Pop,Let Her Go,52,1
+660,41,Male,Hip-Hop,Bohemian Rhapsody,96,1
+661,43,Male,Classical,Someone You Loved,59,1
+662,43,Female,Rock,Cheap Thrills,135,0
+663,28,Male,Rock,Bad Guy,129,0
+664,24,Male,Rock,Senorita,63,0
+665,20,Female,Jazz,Bohemian Rhapsody,166,0
+666,30,Male,Pop,Senorita,78,1
+667,27,Male,Pop,Thunder,92,1
+668,20,Male,Country,Cheap Thrills,142,0
+669,29,Male,Country,Girls Like You,30,1
+670,25,Male,Country,Bad Guy,99,1
+671,20,Male,Rock,Faded,64,0
+672,38,Male,Classical,Perfect,30,0
+673,36,Female,Hip-Hop,Sugar,98,0
+674,32,Male,Country,Bohemian Rhapsody,174,0
+675,25,Female,Pop,Closer,38,0
+676,39,Male,Classical,Thunder,113,1
+677,36,Male,EDM,Dance Monkey,19,1
+678,42,Female,Jazz,Closer,77,1
+679,32,Male,Pop,Senorita,24,1
+680,40,Female,EDM,Havana,90,0
+681,35,Female,Pop,Let Her Go,41,1
+682,25,Male,Rock,Despacito,160,0
+683,21,Male,Rock,Closer,94,1
+684,34,Male,EDM,Girls Like You,15,0
+685,28,Female,Jazz,Dance Monkey,173,1
+686,25,Female,Country,Someone You Loved,129,0
+687,23,Male,Jazz,Thunder,156,0
+688,26,Male,Jazz,Believer,83,0
+689,44,Male,Country,Cheap Thrills,105,1
+690,32,Female,Hip-Hop,Bohemian Rhapsody,60,0
+691,41,Female,Jazz,Despacito,164,0
+692,23,Male,Classical,Believer,50,0
+693,32,Male,EDM,Faded,24,1
+694,18,Female,Classical,Despacito,135,0
+695,40,Male,EDM,Despacito,14,1
+696,19,Male,Country,Dance Monkey,39,1
+697,27,Male,Jazz,Havana,107,0
+698,36,Male,Jazz,Love Story,104,0
+699,34,Female,Pop,Love Story,48,0
+700,30,Male,Hip-Hop,Despacito,40,0
+701,29,Male,Rock,Sugar,74,0
+702,29,Female,Jazz,Thunder,114,0
+703,19,Female,Country,Believer,148,0
+704,22,Male,Jazz,Thunder,12,0
+705,29,Male,Rock,Bad Guy,41,1
+706,30,Female,Pop,Let Her Go,13,1
+707,44,Female,Hip-Hop,Memories,149,0
+708,22,Female,Country,Senorita,98,1
+709,37,Male,Jazz,Cheap Thrills,38,1
+710,40,Male,Hip-Hop,Perfect,137,1
+711,27,Female,Rock,Cheap Thrills,140,1
+712,19,Female,Pop,Faded,49,1
+713,33,Male,Pop,Girls Like You,86,0
+714,28,Female,Country,Shape of You,118,0
+715,25,Male,EDM,Blinding Lights,111,0
+716,45,Female,Pop,Bad Guy,31,1
+717,25,Female,EDM,Let Her Go,121,0
+718,44,Male,Jazz,Thunder,20,1
+719,27,Male,Classical,Someone You Loved,30,0
+720,35,Male,Pop,Dance Monkey,58,0
+721,26,Female,Classical,Sugar,50,0
+722,43,Male,Jazz,Bohemian Rhapsody,92,1
+723,31,Male,EDM,Despacito,50,0
+724,42,Female,Classical,Dance Monkey,80,0
+725,42,Female,Country,Bad Guy,166,1
+726,36,Male,Hip-Hop,Closer,35,0
+727,32,Female,Jazz,Girls Like You,147,0
+728,39,Male,Rock,Someone You Loved,16,0
+729,31,Female,Classical,Perfect,78,1
+730,30,Male,Hip-Hop,Closer,172,1
+731,35,Female,Country,Despacito,89,1
+732,20,Female,Rock,Faded,51,1
+733,28,Female,EDM,Girls Like You,113,1
+734,33,Female,EDM,Memories,19,0
+735,28,Male,Hip-Hop,Havana,153,1
+736,41,Male,Pop,Love Story,79,1
+737,25,Male,Rock,Closer,14,1
+738,34,Male,Jazz,Havana,85,0
+739,19,Male,Classical,Believer,154,0
+740,26,Male,Rock,Love Story,50,1
+741,24,Male,Pop,Bohemian Rhapsody,165,0
+742,20,Female,Classical,Havana,18,0
+743,41,Male,Country,Despacito,132,0
+744,38,Female,Rock,Bohemian Rhapsody,105,1
+745,42,Female,Rock,Thunder,180,0
+746,30,Male,Hip-Hop,Love Story,152,0
+747,43,Male,Country,Closer,11,1
+748,26,Female,Country,Perfect,14,1
+749,27,Female,Classical,Girls Like You,145,1
+750,41,Female,Country,Dance Monkey,163,1
+751,31,Male,Hip-Hop,Thunder,160,0
+752,43,Female,Pop,Let Her Go,101,1
+753,41,Female,Jazz,Memories,99,0
+754,44,Female,EDM,Bad Guy,85,1
+755,40,Male,Classical,Someone You Loved,30,0
+756,20,Male,Rock,Senorita,11,0
+757,40,Female,EDM,Despacito,67,1
+758,28,Female,Country,Bohemian Rhapsody,149,1
+759,31,Male,Rock,Despacito,179,1
+760,42,Male,Hip-Hop,Shape of You,21,1
+761,29,Male,Hip-Hop,Shape of You,180,1
+762,20,Male,Jazz,Senorita,16,1
+763,33,Female,EDM,Sugar,167,1
+764,20,Female,Jazz,Let Her Go,27,1
+765,26,Female,Pop,Shape of You,134,0
+766,27,Female,Pop,Bad Guy,128,1
+767,20,Female,EDM,Thunder,65,0
+768,21,Female,Pop,Thunder,169,0
+769,42,Female,Pop,Faded,12,1
+770,18,Male,Pop,Dance Monkey,171,1
+771,25,Male,Jazz,Sugar,121,0
+772,32,Female,Hip-Hop,Senorita,73,1
+773,26,Male,Pop,Love Story,64,0
+774,38,Male,Rock,Dance Monkey,48,1
+775,30,Female,Country,Senorita,18,1
+776,22,Female,Classical,Believer,154,1
+777,26,Male,Jazz,Perfect,78,1
+778,34,Male,EDM,Let Her Go,98,0
+779,25,Male,EDM,Thunder,172,0
+780,41,Male,Jazz,Cheap Thrills,127,0
+781,33,Female,Hip-Hop,Let Her Go,78,1
+782,32,Female,EDM,Havana,57,0
+783,40,Female,EDM,Despacito,86,0
+784,39,Male,Pop,Despacito,104,1
+785,29,Male,Rock,Cheap Thrills,180,1
+786,26,Male,Classical,Memories,103,0
+787,43,Female,Classical,Closer,137,1
+788,24,Female,EDM,Someone You Loved,77,0
+789,39,Female,Hip-Hop,Bohemian Rhapsody,164,1
+790,39,Female,Pop,Sugar,148,1
+791,37,Female,EDM,Cheap Thrills,50,1
+792,35,Male,Rock,Girls Like You,15,1
+793,34,Female,Jazz,Bad Guy,60,1
+794,37,Male,Pop,Faded,88,0
+795,36,Female,Hip-Hop,Someone You Loved,125,0
+796,24,Male,Hip-Hop,Bohemian Rhapsody,147,1
+797,35,Male,Country,Havana,52,1
+798,29,Male,Jazz,Let Her Go,65,0
+799,25,Female,Rock,Dance Monkey,123,1
+800,21,Male,Hip-Hop,Blinding Lights,118,0
+801,41,Male,Pop,Let Her Go,53,1
+802,38,Male,EDM,Havana,47,1
+803,38,Male,EDM,Despacito,165,1
+804,20,Male,EDM,Bohemian Rhapsody,40,0
+805,38,Male,Hip-Hop,Memories,81,0
+806,29,Male,Rock,Sugar,143,1
+807,45,Female,Jazz,Shape of You,141,1
+808,18,Male,Jazz,Blinding Lights,66,1
+809,29,Male,EDM,Memories,43,1
+810,43,Female,Pop,Senorita,58,1
+811,18,Female,Rock,Dance Monkey,176,1
+812,36,Male,Jazz,Shape of You,80,1
+813,19,Male,Pop,Sugar,106,1
+814,37,Male,Pop,Faded,19,0
+815,24,Male,Country,Believer,117,1
+816,42,Female,Country,Love Story,104,0
+817,45,Male,Classical,Bohemian Rhapsody,80,1
+818,35,Male,Hip-Hop,Blinding Lights,19,0
+819,40,Female,Pop,Sugar,115,0
+820,38,Female,Hip-Hop,Memories,161,1
+821,31,Female,Rock,Someone You Loved,129,0
+822,40,Male,Country,Despacito,139,1
+823,38,Female,Hip-Hop,Blinding Lights,98,1
+824,35,Male,Hip-Hop,Perfect,164,1
+825,20,Female,Jazz,Havana,25,1
+826,36,Female,EDM,Thunder,31,0
+827,38,Male,Country,Senorita,115,0
+828,21,Male,Jazz,Perfect,121,1
+829,22,Female,EDM,Let Her Go,35,0
+830,39,Male,Hip-Hop,Girls Like You,136,1
+831,43,Female,Country,Cheap Thrills,162,1
+832,41,Male,Jazz,Love Story,23,0
+833,35,Male,Rock,Blinding Lights,176,0
+834,18,Female,Classical,Love Story,67,1
+835,31,Male,Classical,Girls Like You,13,0
+836,29,Female,Jazz,Senorita,23,1
+837,34,Female,Jazz,Perfect,160,1
+838,35,Female,Jazz,Despacito,23,1
+839,43,Female,Hip-Hop,Sugar,82,1
+840,23,Male,EDM,Blinding Lights,64,1
+841,26,Male,Jazz,Dance Monkey,151,1
+842,38,Female,Hip-Hop,Girls Like You,66,1
+843,32,Male,Hip-Hop,Shape of You,90,1
+844,25,Male,Classical,Bad Guy,81,1
+845,45,Male,Jazz,Let Her Go,126,0
+846,30,Female,Rock,Bad Guy,68,1
+847,35,Male,Pop,Thunder,176,1
+848,39,Female,Rock,Believer,110,0
+849,22,Female,Hip-Hop,Havana,20,1
+850,24,Female,Pop,Perfect,120,1
+851,27,Female,Classical,Closer,149,0
+852,21,Male,Rock,Perfect,163,0
+853,19,Male,Pop,Dance Monkey,106,1
+854,19,Female,Hip-Hop,Dance Monkey,61,0
+855,34,Female,Hip-Hop,Shape of You,145,1
+856,19,Female,EDM,Cheap Thrills,129,1
+857,29,Female,Rock,Faded,105,0
+858,44,Male,Country,Havana,55,0
+859,41,Female,Hip-Hop,Let Her Go,115,1
+860,45,Male,Pop,Dance Monkey,119,1
+861,40,Female,Classical,Thunder,131,1
+862,35,Male,Country,Havana,76,1
+863,34,Female,Jazz,Memories,86,1
+864,29,Female,EDM,Blinding Lights,18,1
+865,38,Male,EDM,Girls Like You,137,1
+866,45,Female,Jazz,Despacito,87,1
+867,26,Female,Country,Sugar,119,1
+868,45,Male,Rock,Cheap Thrills,48,1
+869,37,Male,Pop,Havana,90,1
+870,20,Female,Pop,Blinding Lights,177,1
+871,40,Female,Jazz,Love Story,60,1
+872,44,Female,Classical,Bad Guy,59,1
+873,32,Female,EDM,Faded,45,0
+874,34,Male,Rock,Closer,124,1
+875,19,Male,Jazz,Girls Like You,51,1
+876,25,Female,Hip-Hop,Bad Guy,42,0
+877,33,Female,EDM,Thunder,122,1
+878,42,Male,Hip-Hop,Havana,132,1
+879,33,Male,Classical,Closer,133,0
+880,45,Male,Jazz,Blinding Lights,53,1
+881,22,Female,Pop,Closer,174,1
+882,32,Female,Jazz,Despacito,27,0
+883,44,Male,Country,Shape of You,111,1
+884,22,Female,Pop,Thunder,167,0
+885,34,Male,Pop,Bohemian Rhapsody,33,1
+886,34,Male,Pop,Perfect,97,1
+887,39,Male,EDM,Memories,119,1
+888,25,Female,Hip-Hop,Let Her Go,82,1
+889,39,Female,Pop,Bad Guy,167,1
+890,33,Female,Classical,Havana,94,1
+891,36,Female,Country,Sugar,32,1
+892,40,Male,EDM,Bad Guy,143,0
+893,20,Female,Pop,Bad Guy,67,1
+894,36,Female,Classical,Girls Like You,106,1
+895,44,Female,Hip-Hop,Blinding Lights,20,1
+896,42,Male,Rock,Thunder,151,0
+897,34,Female,Rock,Perfect,175,1
+898,43,Female,Classical,Bad Guy,174,1
+899,21,Female,Rock,Dance Monkey,116,1
+900,25,Male,Rock,Closer,113,1
+901,40,Female,Hip-Hop,Bad Guy,63,1
+902,21,Female,Hip-Hop,Love Story,106,1
+903,43,Male,Rock,Bohemian Rhapsody,180,0
+904,29,Female,Jazz,Cheap Thrills,60,0
+905,31,Female,Hip-Hop,Girls Like You,111,1
+906,35,Female,Rock,Despacito,16,1
+907,45,Male,Classical,Perfect,125,0
+908,43,Female,Country,Havana,83,0
+909,37,Male,Classical,Blinding Lights,87,0
+910,36,Male,Pop,Faded,146,0
+911,21,Female,Hip-Hop,Let Her Go,124,0
+912,35,Male,Classical,Bad Guy,113,1
+913,43,Male,Hip-Hop,Sugar,121,1
+914,26,Female,Hip-Hop,Love Story,38,1
+915,39,Female,Classical,Believer,151,0
+916,27,Female,Classical,Closer,26,1
+917,34,Female,Country,Senorita,176,0
+918,27,Male,Jazz,Memories,157,1
+919,23,Female,Classical,Closer,161,1
+920,35,Male,Jazz,Thunder,143,1
+921,27,Female,Jazz,Senorita,103,1
+922,39,Female,Pop,Perfect,99,0
+923,35,Female,Jazz,Bad Guy,47,1
+924,34,Female,Hip-Hop,Cheap Thrills,151,0
+925,27,Male,Country,Let Her Go,134,0
+926,43,Male,Jazz,Dance Monkey,128,1
+927,23,Male,Classical,Love Story,50,0
+928,38,Male,Country,Sugar,62,1
+929,25,Male,EDM,Faded,61,1
+930,27,Male,Classical,Thunder,27,1
+931,42,Female,Country,Love Story,130,1
+932,20,Female,Pop,Thunder,18,1
+933,45,Male,Hip-Hop,Love Story,69,1
+934,27,Female,Jazz,Despacito,94,1
+935,35,Female,EDM,Closer,90,1
+936,26,Female,EDM,Faded,10,1
+937,42,Male,Rock,Sugar,29,1
+938,27,Male,Rock,Senorita,141,0
+939,19,Male,EDM,Despacito,114,1
+940,25,Female,Rock,Faded,101,1
+941,29,Male,EDM,Memories,135,0
+942,45,Female,Pop,Despacito,23,0
+943,19,Male,Country,Blinding Lights,170,0
+944,27,Female,Classical,Havana,123,0
+945,39,Male,Hip-Hop,Let Her Go,34,0
+946,24,Female,Pop,Cheap Thrills,95,0
+947,24,Female,Pop,Closer,176,1
+948,45,Male,Country,Perfect,145,0
+949,25,Female,Classical,Believer,77,1
+950,33,Female,EDM,Love Story,51,1
+951,44,Male,EDM,Sugar,85,1
+952,44,Female,Jazz,Perfect,20,1
+953,40,Female,Hip-Hop,Someone You Loved,124,1
+954,26,Male,Country,Let Her Go,133,0
+955,28,Female,Hip-Hop,Dance Monkey,149,1
+956,20,Female,Jazz,Havana,113,1
+957,19,Male,Classical,Thunder,125,0
+958,21,Female,Jazz,Thunder,84,0
+959,41,Female,Pop,Bohemian Rhapsody,16,0
+960,32,Male,EDM,Girls Like You,89,1
+961,29,Male,Jazz,Despacito,149,1
+962,34,Female,EDM,Despacito,145,0
+963,28,Female,Classical,Believer,10,1
+964,45,Male,Classical,Dance Monkey,133,1
+965,38,Male,Hip-Hop,Believer,15,1
+966,24,Female,EDM,Cheap Thrills,23,0
+967,40,Female,Pop,Sugar,169,1
+968,20,Female,Classical,Bohemian Rhapsody,77,1
+969,24,Male,Classical,Dance Monkey,77,1
+970,45,Female,Pop,Thunder,149,1
+971,39,Male,Rock,Despacito,132,0
+972,36,Female,Jazz,Sugar,146,1
+973,38,Male,Country,Bohemian Rhapsody,128,1
+974,34,Female,Jazz,Thunder,49,0
+975,18,Male,Country,Closer,88,1
+976,30,Female,Rock,Thunder,56,0
+977,44,Female,Rock,Someone You Loved,98,0
+978,23,Female,Rock,Thunder,32,0
+979,19,Female,EDM,Dance Monkey,32,1
+980,23,Female,Hip-Hop,Cheap Thrills,14,0
+981,33,Female,Hip-Hop,Shape of You,126,1
+982,25,Female,EDM,Havana,108,1
+983,37,Male,Pop,Sugar,66,0
+984,23,Female,Hip-Hop,Senorita,72,1
+985,34,Female,Jazz,Havana,44,1
+986,45,Male,EDM,Closer,23,1
+987,24,Male,Hip-Hop,Despacito,95,1
+988,34,Male,Hip-Hop,Faded,150,1
+989,27,Female,EDM,Shape of You,36,1
+990,28,Male,Jazz,Thunder,92,1
+991,30,Female,Classical,Closer,59,0
+992,26,Male,EDM,Despacito,118,0
+993,39,Female,Hip-Hop,Bohemian Rhapsody,130,0
+994,22,Male,Rock,Sugar,177,1
+995,26,Male,Jazz,Shape of You,62,1
+996,41,Female,Jazz,Girls Like You,106,0
+997,36,Male,Classical,Dance Monkey,24,1
+998,42,Female,Pop,Thunder,93,0
+999,44,Female,Jazz,Dance Monkey,72,0
+1000,40,Male,Pop,Shape of You,121,1
